@@ -28,6 +28,39 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+/* about page*/
+.aboutpage{
+    
+    margin: 100px;
+}
+.navbar nav{
+    display: flex;
+    justify-content: space-evenly;
+
+    
+
+}
+.navbar img{
+    width: 200px;
+    height: 70px;
+    margin-bottom: 40px;
+}
+.banner {
+    width: 90%;
+    height: 200px;
+    margin-left: 70px;
+ 
+
+    
+}
+.containerabout-page img {
+    flex-direction: row ;
+
+}
+
+
+    
+}
 body {
 	line-height: 1;
 }
